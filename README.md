@@ -3,7 +3,7 @@
 **Fraud Detection using MySQL.** 
    This project consists of 9 excel files consisting of data related to customers, merchants, their transaction records, fraudulent indicators and many more. a variable of questions can be answered through the provided dataset. 
 
-   **Key Insights:**
+   **Key Questions Answered:**
    
 1.--How many Unique Customers are there in the dataset?
 
