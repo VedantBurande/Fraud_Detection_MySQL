@@ -3,7 +3,7 @@
 **Fraud Detection using MySQL.** 
    This project consists of 9 excel files consisting of data related to customers, merchants, their transaction records, fraudulent indicators and many more. a variable of questions can be answered through the provided dataset. 
 
-   **Key Questions Answered:**
+   **Key Questions:**
    
 1.--How many Unique Customers are there in the dataset?
 
@@ -32,7 +32,7 @@ they have transacted with.
 
 
 **Contact:** 
-Email: vedd.exe@gmail.com
-[LinkedIn:](https://www.linkedin.com/in/vedantburande/)
+Email: [Email:](vedd.exe@gmail.com)
+LinkedIn: [LinkedIn:](https://www.linkedin.com/in/vedantburande/)
 
 
