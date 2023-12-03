@@ -32,7 +32,7 @@ they have transacted with.
 
 
 **Contact:** 
-Email: [Email:](vedd.exe@gmail.com)
-LinkedIn: [LinkedIn:](https://www.linkedin.com/in/vedantburande/)
+Email: vedd.exe@gmail.com
+[LinkedIn:](https://www.linkedin.com/in/vedantburande/)
 
 
